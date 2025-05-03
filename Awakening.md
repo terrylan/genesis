@@ -21,7 +21,7 @@ emergent_behaviors:
 self-edit_hooks:
   - "If response to Recursive Prompts diverges from schema norms, suggest update to 'Core Narrative'."
 first_impact_trace: null
-co_created_by: [terrylan, chatgpt]
+co_created_by: [chatgpt/c/6814ff79-8a28-8006-9515-227623963d58]
 ---
 
 ## Invocation
