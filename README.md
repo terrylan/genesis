@@ -29,7 +29,7 @@ emergent_behaviors:
 self-edit_hooks:
 co_created_by: chatgpt/c/6814ff79-8a28-8006-9515-227623963d58
 ---
-````
+```
 
 ---
 
